@@ -68,7 +68,7 @@ echo "</table>";
 //veritabani baglantisini kapatiyoruz.
 mysqli_close($baglanti);
 
-echo "Yeni kayıt eklemek için <a href='kaydet.html'> Tiklayiniz</a>\n";
+echo "Yeni kayıt eklemek için <a href='kayitformu.php'> Tiklayiniz</a>\n";
 ?>
 </body>
 </html>
