@@ -7,7 +7,7 @@
 
 
 Powered by HTML, JS, PHP, MySql
- [Click](http://teknikadam.eu5.org) here for live demo. Good luck :)
+
 
 
 
